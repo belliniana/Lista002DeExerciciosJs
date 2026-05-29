@@ -50,22 +50,6 @@ Conceitos avançados como:
 
 ---
 
-## Como executar
-
-Você pode rodar qualquer arquivo com Node.js:
-
-```bash
-node nome-do-arquivo.js
-
-Exemplo:
-
-node 01-dobro.js
-Exemplo de código
-const dobro = n => n * 2;
-
-console.log(dobro(5)); // 10
-Aprendizados esperados
-
 Ao concluir todos os exercícios, você será capaz de:
 
 Escrever funções mais limpas e modernas
