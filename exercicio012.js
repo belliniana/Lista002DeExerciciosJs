@@ -1,0 +1,1 @@
+const maiusculo = nomes => nomes.map(n => n.toUpperCase());

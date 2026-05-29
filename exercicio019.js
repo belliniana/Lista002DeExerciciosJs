@@ -1,0 +1,1 @@
+const todosPositivos = arr => arr.every(n => n > 0);

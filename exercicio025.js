@@ -1,0 +1,1 @@
+const multiplicador = x => y => x * y;

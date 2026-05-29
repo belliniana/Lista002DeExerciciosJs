@@ -1,0 +1,1 @@
+const tamanhoString = str => str.length;

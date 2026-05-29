@@ -1,0 +1,1 @@
+const entre10e50 = arr => arr.filter(n => n > 10 && n < 50);

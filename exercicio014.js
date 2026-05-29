@@ -1,0 +1,1 @@
+const aumentar15 = precos => precos.map(p => p * 1.15);

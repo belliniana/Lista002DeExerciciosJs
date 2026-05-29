@@ -1,0 +1,1 @@
+const temAdmin = nomes => nomes.some(n => n === "Admin");

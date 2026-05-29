@@ -1,0 +1,1 @@
+const vezesDez = n => n * 10;

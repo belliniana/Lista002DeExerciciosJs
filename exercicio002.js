@@ -1,0 +1,1 @@
+const saudacao = () => "Olá, Mundo!";

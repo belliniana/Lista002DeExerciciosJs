@@ -1,0 +1,1 @@
+const criarObjeto = (nome, categoria) => ({ nome, categoria });

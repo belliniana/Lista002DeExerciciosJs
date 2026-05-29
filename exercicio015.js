@@ -1,0 +1,1 @@
+const tamanhoPalavras = palavras => palavras.map(p => p.length);

@@ -1,0 +1,1 @@
+const dolarParaReal = dolar => dolar * 5.0;

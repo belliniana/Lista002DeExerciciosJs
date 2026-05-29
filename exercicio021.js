@@ -1,0 +1,1 @@
+const criarUsuario = (id, username) => ({ id, username });

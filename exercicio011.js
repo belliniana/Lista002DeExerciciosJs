@@ -1,0 +1,1 @@
+const positivos = arr => arr.filter(n => n > 0);
